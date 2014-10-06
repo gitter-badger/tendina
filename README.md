@@ -1,5 +1,6 @@
 Tendina
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/iprignano/tendina?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A super easy-to-use jQuery plugin to rapidly build dropdown side menus.
 
